@@ -1,2 +1,2 @@
-# -Project-Artist_Classification
+# [Project] Artist_Classification
 Artist Classification
